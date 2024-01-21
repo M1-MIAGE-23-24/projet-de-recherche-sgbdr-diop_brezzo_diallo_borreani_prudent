@@ -4,6 +4,6 @@
 
 ## Étudiants : DIOP Serigne Rawane, BORREANI THEO, DIALLO Mouhamed Gand, PRUDENT Arthur et BREZZO Jérémie
 
-Notre rendu du projet est le document pdf dans ce repository.
+Notre rendu du projet est le [![document pdf](https://github.com/M1-MIAGE-23-24/projet-de-recherche-sgbdr-diop_brezzo_diallo_borreani_prudent/blob/main/DIOP_BORREANI_DIALLO_PRUDENT_BREZZO_Projet_de_recherche_SGBD_relationnels.pdf)] dans ce repository.
 
 Merci !
